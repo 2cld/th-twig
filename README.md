@@ -9,5 +9,5 @@ TH Twig site
   - Call to get a price delivered to rental
   - Create a keep tool shop that we can move
 - tbd
-  - [ ] tbd [tbd}(tbd) template
+  - [ ] tbd [tbd](tbd) template
 - tbd
