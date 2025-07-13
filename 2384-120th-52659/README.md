@@ -24,3 +24,10 @@
 
 ![BHaymond-House pdf](./BHaymond-House.pdf)
 
+---
+
+# Reference
+- Toilet [Layout Dimension](https://www.linkedin.com/pulse/blue-touch-lifestyles)
+- Kitchen [Layout Dimensions](https://www.edrawsoft.com/free-kitchenlayout-templates.html)
+- chris [Sketchup - notebooklm](https://notebooklm.google.com/notebook/bcc90fd3-5f1c-4e5a-8fa7-e1f896e3f288?pli=1)
+
