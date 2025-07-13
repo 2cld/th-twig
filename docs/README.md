@@ -1,4 +1,4 @@
-[edit](https://github.com/2cld/th-twig/edit/main/docs/README.md) or [..}(../)
+[edit](https://github.com/2cld/th-twig/edit/main/docs/README.md) or [..](../)
 # th-twig documents
 
 - [Sketchup Workflow](./sketchup)
