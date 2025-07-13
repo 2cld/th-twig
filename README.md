@@ -26,6 +26,7 @@ TH Twig site
 - Clear dad's shit-pile
 - Clear all trees and growth around buildings
 - Clear all crap (5ft drainage) around all builings
+- Fix [big shed rafter](https://photos.app.goo.gl/cw1rJL8CHKJTm2VM6)
 - Storage Containers Mt. Pleasant 800.924.4254 https://a-1storage.net/storage-containers/
   - Call to get a price delivered to rental
   - Create a keep tool shop that we can move
