@@ -12,6 +12,9 @@
 ---
 ---
 
+![sketchup-20250713](./BHaymond-House-Sketchup-20250713.png)
+
+
 ![BHaymond-House png](./BHaymond-House-Property.png)
 
 
