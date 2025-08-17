@@ -12,4 +12,14 @@
 - 10 foot height 
 - 80” side height 
 
-![M80-TShed](M80-TShed.jpg)
+- Inside
+![M80-TShed1](M80-TShed.jpg)
+- Length
+![M80-TShed2](M80-TShed-lenght.JPG)
+- width
+![M80-TShed3](M80-TShed-width.JPG)
+- offset east (w66)
+![M80-TShed4](M80-TShed-offset-road.JPG)
+- offset north
+![M80-TShed5](M80-TShed-offset-road-north.JPG)
+
