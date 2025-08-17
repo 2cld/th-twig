@@ -12,4 +12,4 @@
 - 10 foot height 
 - 80” side height 
 
-![M80-TShed](M80-TShed.JPG)
+![M80-TShed](M80-TShed.jpg)
