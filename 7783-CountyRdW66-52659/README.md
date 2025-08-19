@@ -11,8 +11,9 @@
 - Pole section 18‘3“ by 15‘3“ six sections
 - Side section 13’
 - 10 foot height 
-- 80” side height 
-
+- 80” side height
+- open 7783-CountyRdW66-52659 on [https://app.sketchup.com/app](https://app.sketchup.com/app)
+![thtwig-sketchup-mom80.JPG](thtwig-sketchup-mom80.JPG)
 - Inside
 ![M80-TShed1](M80-TShed.jpg)
 - Length
