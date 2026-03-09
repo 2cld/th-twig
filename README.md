@@ -8,7 +8,7 @@ TH Twig site
 
 ## Next
 ## List o Shit
-- [ ] tbd [tbd](tbd) template
+- [ ] Review 2025 [2025-Review](./docs/thtwig-acct/2025/) notes
 - [ ] tbd [tbd](tbd) template
 - [ ] tbd [tbd](tbd) template
 
