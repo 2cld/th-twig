@@ -6,9 +6,23 @@ TH Twig site
 - [2384-120th-52659 BHaymond](./2384-120th-52659/)
 - [7783-CountyRdW66-52659 FHKlopFarms](./7783-CountyRdW66-52659/)
 
-## Next
+## Goal 
+- BC Rental occupation 2026.10.09
+- AT Rental open 2026.10.09
+
 ## List o Shit
-- [ ] Review 2025 [2025-Review](./docs/thtwig-acct/2025/) notes
+- [ ] Check wall modification (verify non-load)
+- [ ] Demo kitchen, entry, modwall, trim, doors
+- [ ] Pull some windows for demo and ventilation
+- [ ] Test wall skim
+- [ ] Walls, doors, pocket doors rough
+- [ ] Geo-tec ceiling, 1x2 attach
+- [ ] abandon old wire, wire new
+- [ ] ceiling rock
+- [ ] wall skim / rock
+- [ ] Sand floors
+- [ ] Windows
+- [ ] Trim
 - [ ] tbd [tbd](tbd) template
 - [ ] tbd [tbd](tbd) template
 
@@ -37,8 +51,6 @@ TH Twig site
 - tbd
 
 ## ToDone
-
-
 - [x] Josh [New Roof July 1, 2025](https://photos.app.goo.gl/4w2hiHXZnCpfAy3UA)
 - [x] Backup repair session 5 - bucket cylinder
 - [x] Backup repair session 4 - bucket curl
