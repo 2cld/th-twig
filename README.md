@@ -10,15 +10,17 @@ TH Twig site
 - BC Rental occupation 2026.10.09
 - AT Rental open 2026.10.09
 
-## List o Shit
+## List o Sh...oulds
 - [ ] Check wall modification (verify non-load)
+- [ ] Finalize Sketchup
 - [ ] Demo kitchen, entry, modwall, trim, doors
 - [ ] Pull some windows for demo and ventilation
 - [ ] Test wall skim
 - [ ] Walls, doors, pocket doors rough
-- [ ] Geo-tec ceiling, 1x2 attach
+- [ ] test and find bad plaster knock-down (resparator)
+- [ ] patch and rock ceiling
 - [ ] abandon old wire, wire new
-- [ ] ceiling rock
+- [ ] verify vents/ac
 - [ ] wall skim / rock
 - [ ] Sand floors
 - [ ] Windows
