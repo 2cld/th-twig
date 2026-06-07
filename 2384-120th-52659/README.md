@@ -13,6 +13,7 @@
 
 ---
 ---
+![BHaymond-Windows-BedMod.PNG](BHaymond-Windows-BedMod.PNG)
 ![thtwig-sketchup-bhaymod.JPG](thtwig-sketchup-bhaymod.JPG)
 ![sketchup-20250713](./BHaymond-House-Sketchup-20250713.PNG)
 
