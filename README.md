@@ -11,10 +11,22 @@ TH Twig site
 - AT Rental open 2026.10.09
 
 ## List o Sh...oulds
-- [ ] Check wall modification (verify non-load)
+- [X] Check wall modification (verify non-load)
 - [ ] Finalize Sketchup
-- [ ] Demo kitchen, entry, modwall, trim, doors
+      - [X] Walls
+      - [X] Windows
+      - [ ] Mods
+      - [ ] HVAC
+      - [ ] Elec
+      - [ ] Plumb
 - [ ] Pull some windows for demo and ventilation
+- [ ] Demo
+      - [ ] North Room
+      - [ ] Living Room
+      - [ ] Bath
+      - [ ] Spare
+      - [ ] kitchen
+      - [ ] Entry South
 - [ ] Test wall skim
 - [ ] Walls, doors, pocket doors rough
 - [ ] test and find bad plaster knock-down (resparator)
@@ -23,7 +35,8 @@ TH Twig site
 - [ ] verify vents/ac
 - [ ] wall skim / rock
 - [ ] Sand floors
-- [ ] Windows
+- [X] Windows buy
+- [ ] Windows install
 - [ ] Trim
 - [ ] tbd [tbd](tbd) template
 - [ ] tbd [tbd](tbd) template
