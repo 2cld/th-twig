@@ -2,9 +2,9 @@
 
 TH Twig site
 
-- [2378-120th-52659 AlTrees](./2378-120th-52659/)
-- [2384-120th-52659 BHaymond](./2384-120th-52659/)
-- [7783-CountyRdW66-52659 FHKlopFarms](./7783-CountyRdW66-52659/)
+- [2378-120th-52659 AlTrees](./2378-120th-52659/) - https://th-twig.2cld.net/2378-120th-52659/
+- [2384-120th-52659 BHaymond](./2384-120th-52659/) - https://th-twig.2cld.net/2384-120th-52659/
+- [7783-CountyRdW66-52659 FHKlopFarms](./7783-CountyRdW66-52659/) - https://th-twig.2cld.net/7783-CountyRdW66-52659/
 
 ## Goal 
 - BC Rental occupation 2026.10.09
@@ -23,13 +23,13 @@ TH Twig site
 - [ ] Demo
       - [ ] North Room
       - [ ] Living Room
+      - [ ] test and find bad plaster knock-down (resparator)
       - [ ] Bath
       - [ ] Spare
       - [ ] kitchen
       - [ ] Entry South
 - [ ] Test wall skim
 - [ ] Walls, doors, pocket doors rough
-- [ ] test and find bad plaster knock-down (resparator)
 - [ ] patch and rock ceiling
 - [ ] abandon old wire, wire new
 - [ ] verify vents/ac
