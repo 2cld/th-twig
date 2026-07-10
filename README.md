@@ -6,6 +6,8 @@ TH Twig site
 - [2384-120th-52659 BHaymond](./2384-120th-52659/) - https://th-twig.2cld.net/2384-120th-52659/
 - [7783-CountyRdW66-52659 FHKlopFarms](./7783-CountyRdW66-52659/) - https://th-twig.2cld.net/7783-CountyRdW66-52659/
 - [Joe's backhoe repair](https://photos.app.goo.gl/EkL87EPsKGAdWuA37)
+- [Broken Tracktor](https://www.brokentractor.com/p/john-deere-tractor-rear-rim-15-x-30-8-loop-wheel30-wheel30/)
+- [ai search](./backhoe-tire-ai-search.md)
 
 ## Goal 
 - BC Rental occupation 2026.10.09
