@@ -41,6 +41,8 @@ To test the cooling system directly at the indoor unit without a thermostat or t
 The cooling circuit will successfully activate when R is jumpered directly to both Y and G while the outdoor contactor loop is completed across Y and C. [3, 7] 
 If the system fails to start with these jumpers in place, let me know:
 
+![HVAC-Repair-Thermostat-Bypass](./HVAC-Repair-Thermostat-Bypass.PNG)
+
 * 
 * Is the control board displaying any flashing LED diagnostic fault codes?
 * Are you reading 24VAC across R and C using your multimeter?
